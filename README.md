@@ -1,4 +1,4 @@
-# Fantasy Stock Trading
+# Application ReadMe Template
 
 Try it out! [Application Link](https://ar-tweet-feed.herokuapp.com/)
 
